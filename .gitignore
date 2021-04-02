@@ -1,0 +1,6 @@
+# dependencies
+/node_modules
+
+# production
+/dev4est_start_gulp
+package-lock.json
